@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",360 TV SD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",360 [HD]
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",4seven
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPoSO-H303r6p7Mq8w2ze4E/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ALIBI
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDN77DkaAEtCvMFMafV13PQ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",AMC
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPIQrkdgwPYeMS2GDQEWtlo/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCxVIypOG5oWAFmbjbyAp98/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="Religious;Undefined",Ahlulbayt TV
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Ahlulbayt TV (1080p) [Not 24/7]
+https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/62IpVDn.png" group-title="Undefined",Akaal TV,UK | Akaal TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Anand TV (720p) [Not 24/7]
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News;Undefined",Arab's Sky News (Backup),makkah,Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BABY TV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1622?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAl-OYC0bIpCR99cytnScnk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC 1 London
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SISNcbHumRS50rqAJ8L2HCY/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG1TYeyVDvTXipqX02ffie0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBHBw7NhPFnbptAMsnRztNw/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC ALBA
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBsqPxdu2iTee6RCNDUeSxFFvnfjQig-FIxH8secR3wJ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live_http.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live_http.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live_http.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC LIFESTYLE
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMAHNauSsk1yn5q5J-LKDnk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (540p)
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (540p)
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live_http.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (540p)
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live_http.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live_http.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BOOMERANG
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJhUROb9R9mh-M-jLjQQc-0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SO8KG21vvlujW4BzdbjwU0o/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBP8IcIFQjkd_4CiXkvhKnU/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 3
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNfyk9pqZv-bBzvb_hxeHnc/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDq0bk4bbCg_rXw6Syt6tvE/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIkek_o452ChjDsjRaPeSuA/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLgccH1t-8UXPvXwVqviD9M/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SM65rqfomBQnbe-ZHVvEtZA/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Box Nation
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJBde2JHz_9l6ziUjxrg7tM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CARTOON NETWORK HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHO21I6bqV9mNs2B_jz27Qs/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS REALITY
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP2SjaVPf7XR6dGBD7B9UC4/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CHANNEL 4
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SH4MBjENAW90ExsjBprajWw/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CHANNEL 5
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP-4eJ2c7gBcYfegRY2xul8/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN INTERNATIONAL
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOapDOB2Nqb_r6KRjHLsFbQ/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",COMEDY CENTRAL
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCo_zPHqVy3Jirm3cg9gkNU/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",COMEDY CENTRAL EXTRA
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIjS3gORNVxFwv71SpKp0uk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CRIME & INVESTIGATION
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNiwpJt3Xq4R1M_Ybl9KBfk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CRIME INVESTIGATION
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1639?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Cartoon Network 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPhVufkZjqjZ5tCGjJg1vWk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 4 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOtMCNI1SpvGCZenlxNhel4/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 5
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDBFs0b7EUEmc3fbLC7e_io/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Chart Show Hits
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMv83z4qfmEa2p97j6y4UdM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Comedy Central HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIaVczLjiu6LmpSCwlUQJ74/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Craft Store TV (720p)
+https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DAVE
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPHz_Ym2ECrD8SZFgmlndc8/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMwJlucEdrr_0KXT4qd2htM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISNEY XD +1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPQ_1Tm3UkGCoRpyvFLhnho/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DRAMA
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHc4clTaIyowkmdbS56wwd8/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Deen TV (576p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deentv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery Turbo
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN6eNVqR3LJVjuyQAsoKBj4/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Disney Channel
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOIHw9ngVCGoh9i_IwgeP4I/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",E!
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOBtnr2zdwrvXNtJRA-dHS8/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",E4 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBNIlS06DUHAX4Ne_zCTEk0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",EDEN
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNysf7JMHNo8P2cE6g2ga0E/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="Religious",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEOnUDnaEwr5MbEVR9l3Kcc/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGmCr-_TDiIjRaCrNZSMs2w/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOX HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPEHdlFxfgvIAA0O-gzM0K8/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FilmRise Free Movies on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",FreeSports FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBXTZQavzuVVWaCsen69SyWg5dk_3YAITyueBfyMliNF/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Religious",GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",GOLD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOS-wBXbXZUsFuGg2DPywac/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gemporia,Gems TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",HOME TV
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHXtp9QCgyv7jeiucsWukUs/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",HOME&HEALTH
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1650?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ID
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1652?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFjo2DiR7PHM8iuNbtsCGIM/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHThUkcB4hPV8oix2SiKGm8/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 3
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOodu5sGDFYUuu1VuGi8fW4/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 3
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPxpe2FCo6e9y2hL5n2nAVc/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 3 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1578?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV 4
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIu7-1FZ_R5UUXsNBgV4plk/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV Granada
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLQnnB401tvL50YA4Wm6PrY/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV London
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPCG_-t9yRcgPD4_WvrOWXw/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITVBE
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF1Q-T0Nylbf5RLDqEokQF0/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITVbe
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFT2tFvadgwmV0sO1HlFglw/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Iqra Bangla (576p)
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Iqra TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Iran International (1080p)
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Kalemeh TV (576p) [Not 24/7]
+http://51.210.199.37/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/jxf9gQd.jpg" group-title="Undefined",Kanshi TV,UK | Kanshi TV
+http://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Keep It Country
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNwaE97wztHqlbUwIwmlYdc/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",LIFETIME
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAy8QIYvTmBplSFdvK2G6Jo/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Love Nature
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNjsnKpDhqUM3hix6wZ7i-4/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MORE4 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SL-CocGVUnoq71zcNtGK_m8/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Music",MTV CLASSIC
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1616?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Music",MTV MUSIC
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1619?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NASA TV [HD]
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEic3ewRHNV6I6MJySD0V28/ts?checkedby:iptvcat.com
